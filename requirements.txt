@@ -1,0 +1,5 @@
+Flask==2.0.2
+python-dotenv==0.19.1
+slack-bolt==1.9.3
+flup6==1.1.1
+
